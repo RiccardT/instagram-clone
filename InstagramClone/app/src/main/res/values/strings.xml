@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="user_list_title">Users</string>
+    <string name="user_feed_title">Posts</string>
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="login_button_text">Login</string>
+    <string name="switch_text_for_sign_up">or, Sign Up</string>
+    <string name="switch_text_for_login">or, Login</string>
+    <string name="menu_share_text">Share</string>
+    <string name="menu_logout_text">Logout</string>
+</resources>

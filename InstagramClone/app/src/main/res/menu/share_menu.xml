@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/menu_share_text"
+        android:id="@+id/share" />
+    <item
+        android:title="@string/menu_logout_text"
+        android:id="@+id/logout" />
+</menu>
